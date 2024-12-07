@@ -61,6 +61,6 @@ typing-extensions==3.7.4.3
 urllib3==1.26.4
 uvicorn==0.13.4
 watchgod==0.7
-OBOBOBwcmatch==8.1.2
-OBOBOBOBOBOBwebsockets==8.1
+wcmatch==8.1.2
+websockets==8.1
 wrapt==1.12.1
